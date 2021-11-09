@@ -1,5 +1,5 @@
 # To-do list
 
-- [ ] add create form to /users
+- [x] add create form to /users
 - [ ] add update form to /users/:username
-- [ ] add comment form to /photo/:id
+- [x] add comment form to /photo/:id
